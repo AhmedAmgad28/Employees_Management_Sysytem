@@ -1,0 +1,4 @@
+ali 90 cs 10000
+mina 894 cs 8000
+bassel 59 cs 5000
+Ahmed 123 It 6000
